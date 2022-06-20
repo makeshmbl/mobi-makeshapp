@@ -1,6 +1,6 @@
 version: '3.8'
 networks: # to create a custom bridge
-  ashubr111: 
+  makeshbr111: 
 services:
   makeshapp007:
     image: makeshciapp:v1 
