@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  makeshappfinal:
+    image: makeshcustomer:v1
+    build: .
+    container_name: makeshcc0011
+    ports:
+    - "1133:80"
+    restart: always
+    environment:
+      deploy: "app2"
