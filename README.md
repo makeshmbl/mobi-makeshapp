@@ -1,3 +1,3 @@
 # mobi-makeshapp
 
-# for auto build
+# for auto build new
